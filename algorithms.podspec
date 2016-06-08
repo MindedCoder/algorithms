@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'algorithms'
+  s.name     = 'HCAlgorithms'
   s.version  = '0.0.1'
   s.license  = 'MIT'
   s.summary  = 'A fundation about algorithms'
